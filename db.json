@@ -1,0 +1,25 @@
+{
+    "users" :  [
+        {
+          "id": 1,
+          "nama": "afif",
+          "alamat": "Pekalongan",
+          "umur": 24,
+          "nohp": "0857645345645"
+        },
+        {
+          "id": 2,
+          "nama": "udin",
+          "alamat": "Malang",
+          "umur": 24,
+          "nohp": "0857645345645"
+        },
+        {
+          "id": 3,
+          "nama": "tono",
+          "alamat": "Bali",
+          "umur": 24,
+          "nohp": "0857645345645"
+        }
+      ]
+}
